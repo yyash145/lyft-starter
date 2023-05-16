@@ -27,7 +27,7 @@ class spindler(Car):
         if(self.four >= 0.9):
             count += 1
 
-        if count > 2:
+        if count > 0:
             return True
         else:
             return False
