@@ -1,2 +1,5 @@
 # Starter Repo
-This repo has everything you need to get started on the program, good luck!
+
+- Made changes in engine directory
+- Create new battery directory
+
