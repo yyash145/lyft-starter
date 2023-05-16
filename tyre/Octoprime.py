@@ -1,9 +1,6 @@
 from car import Car
 
 # import array or sensor
-# let dummy array be:
-array = [0.89, 0.91, 0.92, 0.90]
-
 class spindler(Car):
     def __init__(self, arr):
         self.arr = arr
